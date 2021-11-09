@@ -1,1 +1,9 @@
 /* Add your own styles */
+header{
+    background-color: navy;
+    color: gray;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
