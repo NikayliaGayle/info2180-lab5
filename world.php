@@ -1,7 +1,6 @@
 <?php
 error_reporting(0);
-//define ("CSSPATH", 'template/css/');
-//$cssItem='style.css';
+header('Access-Control-Allow-Origin: *');
 $host = 'localhost';
 $username = 'lab5_user';
 $password = 'password123';
